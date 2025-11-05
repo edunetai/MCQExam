@@ -1,0 +1,5 @@
+{
+  "name": "MCQ Test Platform",
+  "description": "A comprehensive MCQ test-taking application with real-time admin controls and a student-facing test interface, powered by React and Supabase for a seamless and synchronized experience.",
+  "requestFramePermissions": []
+}
