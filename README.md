@@ -2,7 +2,7 @@
 
 A comprehensive, real-time MCQ test-taking application with a powerful admin dashboard and a seamless student testing interface. Built with React and powered by Supabase for a fully synchronized, interactive experience.
 
-![Admin Dashboard Screenshot](https://storage.googleapis.com/aistudio-hosting/project-assets/mcq-platform-demo.png)
+![Admin Dashboard Screenshot](./assets/admin-dashboard.png)
 
 ## Key Features
 
